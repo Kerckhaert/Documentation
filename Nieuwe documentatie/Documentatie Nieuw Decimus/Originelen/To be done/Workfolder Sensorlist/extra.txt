@@ -1,0 +1,5 @@
+"Vanaf versie 123 instance en source in kolom ""Module"""
+
+NMEA2000 voorbeelden.
+
+vanaf versie 130 timehms en dateYMD
